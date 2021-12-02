@@ -1,0 +1,8 @@
+<Config>
+	<!-- Complete the format field according to .NET formatting
+	Refer to table published on
+	https://devblogs.microsoft.com/scripting/formatting-date-strings-with-powershell/
+	for more information-->
+	<Format>hh:mm:ss</Format>
+</Config>
+
